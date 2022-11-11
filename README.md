@@ -1,30 +1,23 @@
-# Pokedexstart
+![](src/assets/Thumbnail.png)
 
-Link para acessar o protótipo
-https://www.figma.com/file/Lb8Kb6uPlQEugxKQRue2r8/Pokedex?node-id=0%3A1
+# Desafio Front-end - Pokedex - Squad Homem de Ferro
+Projeto base para o desafio do dia 11/11/2022. Você deve fazer um clone do projeto porém deverá criar um projeto no seu github ou gitlab para que o projeto seja seu.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
+## Primeiros Passos
+--------------
+Para clonar o projeto você deve fazer
+```
+$ git clone https://github.com/airlonfilho/pokedexstart.git
+$ cd pokedexstart
+```
 
-## Development server
+Após clonar e entrar na pasta do projeto, deve instalar as dependências usando o npm
+```
+$ npm install
+```
+--------------
+## License
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+MIT
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
