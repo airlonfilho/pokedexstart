@@ -38,7 +38,7 @@ $ npm install
 
 ## Dicas
 --------------
-Após clonar o projeto, entender como organizar pastas e criação de componentes. Segundo passo seria fazer a criação do service e a integração da api para listar os pokemons. Inicialmente deve apenas listar os pokemons, caso consiga terminar rápido pode incrementar o projeto. Na listagem principal você vai usar algo como "url + pokemon/", já no detalhe será "url + pokemon/1". Após a integração com a api, focar no visual dos componentes com o material.
+Após clonar o projeto, entender como organizar pastas e criação de componentes. Segundo passo seria a instalação do angular material, terceiro fazer a criação do service e a integração da api para listar os pokemons. Inicialmente deve apenas listar os pokemons, caso consiga terminar rápido pode incrementar o projeto. Na listagem principal você vai usar algo como "url + pokemon/", já no detalhe será "url + pokemon/1". Após a integração com a api, focar no visual dos componentes com o material.
 
 Caso tenham dúvidas podem ver a documentação ou vídeos no youtube, além de me chamar no teams, mesmo que seja final de semana porque tenho instalado no celular kkkkk. Bora lá que quero ver todos em projetos como full stack ou front-end logo logo.
 
